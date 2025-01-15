@@ -1,5 +1,5 @@
 # Meu Projeto
-Este é um projeto de busca binária.
+Este é um projeto de busca binária. Uma aplicação prática para demonstrar compreensão de algoritmos.
 
 ## Como usar
 - Clone o repositório
